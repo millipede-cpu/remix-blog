@@ -1,3 +1,4 @@
+import "./env.server";
 import { createCookieSessionStorage, redirect } from "@remix-run/node";
 import invariant from "tiny-invariant";
 
